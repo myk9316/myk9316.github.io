@@ -11,11 +11,9 @@ layout: page
 <ul class="education-list">
 	<li>Yonsei University</li>
 	<li>NYU</li>
-
-
+</ul>
 
 <h2>Skills</h2>
-
 <ul class="skill-list">
 	<li>Git</li>
 	<li>Python</li>
@@ -24,7 +22,6 @@ layout: page
 </ul>
 
 <h2>Projects</h2>
-
 <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
