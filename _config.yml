@@ -1,9 +1,9 @@
 # main text of home
 name: Minyeob Kim
-bio: ''
+bio: Hello
 
 # twitter summary info
-description: A blog about data analyst
+description: A blog about data analytics
 
 # if it's an external image, update below for true
 # better with square images
@@ -34,14 +34,14 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+# twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://myk9316.github.io
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -50,7 +50,7 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: myk9316@gmail.com
 
 authors:
   johndoe:
