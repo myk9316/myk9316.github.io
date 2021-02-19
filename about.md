@@ -7,6 +7,13 @@ layout: page
 <p>HELLO
 	.</p>
 
+<h2>Education</h2>
+<ul class="education-list">
+	<li>Yonsei University</li>
+	<li>NYU</li>
+
+
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
